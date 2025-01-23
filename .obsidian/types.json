@@ -1,0 +1,12 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "date": "date",
+    "Group Meeting?": "checkbox",
+    "Group Meeting": "checkbox",
+    "as": "datetime",
+    "Meeting": "checkbox"
+  }
+}
