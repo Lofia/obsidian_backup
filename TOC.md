@@ -1,4 +1,4 @@
 
 ```dataview
-LIST 
+LIST file.day WHERE file.day
 ```
