@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:/[0-9]{4}-[0-9]{2}-[0-9]{2}/",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -173,13 +174,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4cf7c40cb5b8a8b0",
+  "active": "1ca338614208be64",
   "lastOpenFiles": [
-    "TOC.md",
     "2025-01-22.md",
+    "README.md",
+    "TOC.md",
     "Obsidian.md",
     "LICENSE",
-    "README.md",
     "obsidian_backup/README.md",
     "obsidian_backup/LICENSE",
     "obsidian_backup",
