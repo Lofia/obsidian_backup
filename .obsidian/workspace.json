@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-02-11.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-02-11"
+              "title": "README"
             }
           }
         ]
@@ -176,8 +176,8 @@
   },
   "active": "4cf7c40cb5b8a8b0",
   "lastOpenFiles": [
-    "2025-02-04.md",
     "2025-02-11.md",
+    "2025-02-04.md",
     "Selective Review of Biased Sampling Problems with Applications in Modern Statistics.pdf",
     "Jing Qin (auth.) - Biased Sampling, Over-identified Parameter Problems and Beyond-Springer Singapore (2017).pdf",
     "2025-01-22.md",
