@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "828fb013085034da",
+        "id": "dfbfa4bd4def9ff9",
         "type": "tabs",
         "children": [
           {
-            "id": "4cf7c40cb5b8a8b0",
+            "id": "7c62813a7f858334",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Selective Review of Biased Sampling Problems with Applications in Modern Statistics.pdf"
+                "file": "2025-02-11.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Selective Review of Biased Sampling Problems with Applications in Modern Statistics"
+              "icon": "lucide-file",
+              "title": "2025-02-11"
             }
           }
         ]
@@ -172,14 +174,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4cf7c40cb5b8a8b0",
+  "active": "7c62813a7f858334",
   "lastOpenFiles": [
-    "2025-02-11.md",
-    "README.md",
     "2025-02-04.md",
-    "Selective Review of Biased Sampling Problems with Applications in Modern Statistics.pdf",
-    "Jing Qin (auth.) - Biased Sampling, Over-identified Parameter Problems and Beyond-Springer Singapore (2017).pdf",
     "2025-01-22.md",
+    "2025-01-15.md",
+    "2025-01-08.md",
+    "2025-02-11.md",
+    "Selective Review of Biased Sampling Problems with Applications in Modern Statistics.pdf",
+    "README.md",
+    "Jing Qin (auth.) - Biased Sampling, Over-identified Parameter Problems and Beyond-Springer Singapore (2017).pdf",
     "Pasted image 20250211211440.png",
     "biometrics-H-Q-H.pdf",
     "ICSDS-Shifts.pdf",
@@ -190,8 +194,6 @@
     "obsidian_backup/LICENSE",
     "obsidian_backup",
     "2024-12-26.md",
-    "2025-01-08.md",
-    "2025-01-15.md",
     "Pasted image 20250120101526.png",
     "Pasted image 20250108092823.png",
     "Pasted image 20250108093214.png",
