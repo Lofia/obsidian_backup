@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:/[0-9]{4}-[0-9]{2}-[0-9]{2}/",
+                "query": "file:/[0-9]{4}-[0-9]{2}-[0-9]{2}/file:/[0-9]{4}-[0-9]{2}-[0-9]{2}/",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -159,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -176,7 +177,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "97c6856524c9c6f0",
+  "active": "1ca338614208be64",
   "lastOpenFiles": [
     "2025-02-27.md",
     "IMG_5502.jpg",
