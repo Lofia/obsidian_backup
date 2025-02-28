@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -177,8 +176,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1ca338614208be64",
+  "active": "97c6856524c9c6f0",
   "lastOpenFiles": [
+    "README.md",
     "2025-02-27.md",
     "IMG_5502.jpg",
     "2025-02-25.md",
@@ -191,7 +191,6 @@
     "2025-01-15.md",
     "2025-01-08.md",
     "Selective Review of Biased Sampling Problems with Applications in Modern Statistics.pdf",
-    "README.md",
     "Jing Qin (auth.) - Biased Sampling, Over-identified Parameter Problems and Beyond-Springer Singapore (2017).pdf",
     "Pasted image 20250211211440.png",
     "biometrics-H-Q-H.pdf",
