@@ -11,14 +11,12 @@
             "id": "97c6856524c9c6f0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "2025-02-27.md",
-                "mode": "source",
-                "source": false
+                "file": "IMG_5502.jpg"
               },
-              "icon": "lucide-file",
-              "title": "2025-02-27"
+              "icon": "lucide-image",
+              "title": "IMG_5502"
             }
           }
         ]
@@ -178,6 +176,7 @@
   },
   "active": "97c6856524c9c6f0",
   "lastOpenFiles": [
+    "2025-02-27.md",
     "2025-01-15.md",
     "2025-01-22.md",
     "2025-02-04.md",
@@ -185,7 +184,6 @@
     "2025-02-17.md",
     "2025-02-21.md",
     "2025-02-25.md",
-    "2025-02-27.md",
     "README.md",
     "IMG_5502.jpg",
     "IMG_5502.heic",
