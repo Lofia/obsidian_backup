@@ -11,12 +11,14 @@
             "id": "97c6856524c9c6f0",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Jing Qin (auth.) - Biased Sampling, Over-identified Parameter Problems and Beyond-Springer Singapore (2017).pdf"
+                "file": "2025-01-22.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Jing Qin (auth.) - Biased Sampling, Over-identified Parameter Problems and Beyond-Springer Singapore (2017)"
+              "icon": "lucide-file",
+              "title": "2025-01-22"
             }
           }
         ]
@@ -177,6 +179,7 @@
   "active": "97c6856524c9c6f0",
   "lastOpenFiles": [
     "2025-02-11.md",
+    "Jing Qin (auth.) - Biased Sampling, Over-identified Parameter Problems and Beyond-Springer Singapore (2017).pdf",
     "2025-02-17.md",
     "2025-02-25.md",
     "2025-02-27.md",
@@ -189,7 +192,6 @@
     "IMG_5502.heic",
     "2025-01-08.md",
     "Selective Review of Biased Sampling Problems with Applications in Modern Statistics.pdf",
-    "Jing Qin (auth.) - Biased Sampling, Over-identified Parameter Problems and Beyond-Springer Singapore (2017).pdf",
     "Pasted image 20250211211440.png",
     "biometrics-H-Q-H.pdf",
     "ICSDS-Shifts.pdf",
