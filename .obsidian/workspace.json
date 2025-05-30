@@ -11,14 +11,12 @@
             "id": "97c6856524c9c6f0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "2025-05-23.md",
-                "mode": "source",
-                "source": false
+                "file": "IMG_5583.jpg"
               },
-              "icon": "lucide-file",
-              "title": "2025-05-23"
+              "icon": "lucide-image",
+              "title": "IMG_5583"
             }
           }
         ]
@@ -178,9 +176,11 @@
   },
   "active": "97c6856524c9c6f0",
   "lastOpenFiles": [
+    "2025-05-30.md",
+    "IMG_5583.jpg",
     "IMG_5578.jpg",
-    "2025-05-15.md",
     "2025-05-23.md",
+    "2025-05-15.md",
     "2025-02-25.md",
     "2025-05-13.md",
     "2025-05-07.md",
@@ -207,7 +207,6 @@
     "2025-01-08.md",
     "2024-12-26.md",
     "2025-03-17.md",
-    "2025-02-27.md",
     "Jing Qin (auth.) - Biased Sampling, Over-identified Parameter Problems and Beyond-Springer Singapore (2017).pdf",
     "IMG_5502.jpg",
     "IMG_5502.heic",
@@ -221,8 +220,6 @@
     "Pasted image 20250120101526.png",
     "Pasted image 20250108092823.png",
     "Pasted image 20250108093214.png",
-    "Pasted image 20250108185310.png",
-    "Pasted image 20241227103027.png",
     "templates"
   ]
 }
