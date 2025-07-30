@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-03-24.md",
+                "file": "2025-07-26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-24"
+              "title": "2025-07-26"
             }
           }
         ],
@@ -191,8 +191,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "51381521963e1afd",
+  "active": "97c6856524c9c6f0",
   "lastOpenFiles": [
+    "2025-03-24.md",
     "2025-07-26.md",
     "2025-06-27.md",
     "IMG_5502.jpg",
@@ -225,7 +226,6 @@
     "2025-04-16.md",
     "2025-04-17.md",
     "2025-04-22.md",
-    "2025-04-08.md",
     "Jing Qin (auth.) - Biased Sampling, Over-identified Parameter Problems and Beyond-Springer Singapore (2017).pdf",
     "IMG_5502.heic",
     "Selective Review of Biased Sampling Problems with Applications in Modern Statistics.pdf",
