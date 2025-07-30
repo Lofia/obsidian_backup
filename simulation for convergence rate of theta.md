@@ -1,6 +1,6 @@
 #### Normal(0,1)
 1. m=n
-	1. convergence of theta
+	1. convergence of theta ![](Pasted%20image%2020250730130415.png)
 	2. convergence of Lambda ![](Pasted%20image%2020250730123329.png)
 2. m=n^(5/6)
 	1. convergence of theta 
