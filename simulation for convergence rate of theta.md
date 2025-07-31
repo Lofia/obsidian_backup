@@ -16,8 +16,8 @@
 	1. convergence of theta 
 	2. convergence of Lambda 
 3. m=n^(5/6)
-	1. convergence of theta 
-	2. convergence of Lambda 
+	1. convergence of theta ![](Pasted%20image%2020250731170452.png)
+	2. convergence of Lambda ![](Pasted%20image%2020250731170507.png)
 
 
 #### Gamma(1,1)
