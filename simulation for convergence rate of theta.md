@@ -22,4 +22,4 @@ convergence of Lambda
 	2. convergence of Lambda ![](Pasted%20image%2020250730222426.png)
 3. m=n^(5/6)
 	1. convergence of theta ![](Pasted%20image%2020250730123430.png)
-	2. convergence of Lambda
+	2. convergence of Lambda ![](Pasted%20image%2020250731014419.png)
