@@ -49,8 +49,7 @@
               "title": "2025-07-31"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,8 +204,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c69fa17435ecab82",
+  "active": "97c6856524c9c6f0",
   "lastOpenFiles": [
+    "Pasted image 20250731132428.png",
+    "Pasted image 20250731132417.png",
     "2025-07-31.md",
     "simulation for convergence rate of theta.md",
     "Pasted image 20250731115543.png",
@@ -218,7 +219,6 @@
     "Pasted image 20250731014419.png",
     "Pasted image 20250731014404.png",
     "Pasted image 20250730222426.png",
-    "Pasted image 20250730222414.png",
     "2025-05-23.md",
     "2025-07-26.md",
     "2025-05-30.md",
@@ -243,7 +243,6 @@
     "IMG_5560.heic",
     "2025-04-30.md",
     "2025-05-01.md",
-    "2025-04-24.md",
     "Jing Qin (auth.) - Biased Sampling, Over-identified Parameter Problems and Beyond-Springer Singapore (2017).pdf",
     "IMG_5502.heic",
     "Selective Review of Biased Sampling Problems with Applications in Modern Statistics.pdf",
