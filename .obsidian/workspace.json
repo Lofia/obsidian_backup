@@ -41,15 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-07-31.md",
+                "file": "2025-07-26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-31"
+              "title": "2025-07-26"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -204,8 +205,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "97c6856524c9c6f0",
+  "active": "c69fa17435ecab82",
   "lastOpenFiles": [
+    "2025-06-27.md",
+    "2025-08-01.md",
+    "2025-07-31.md",
+    "simulation for convergence rate of theta.md",
     "Pasted image 20250801040635.png",
     "Pasted image 20250801021800.png",
     "Pasted image 20250801002619.png",
@@ -213,16 +218,12 @@
     "Pasted image 20250731233506.png",
     "Pasted image 20250731170507.png",
     "Pasted image 20250731170452.png",
-    "2025-07-31.md",
-    "simulation for convergence rate of theta.md",
     "Pasted image 20250731132428.png",
     "Pasted image 20250731132417.png",
     "Pasted image 20250731115543.png",
-    "Pasted image 20250731102631.png",
     "2025-05-23.md",
     "2025-07-26.md",
     "2025-05-30.md",
-    "2025-06-27.md",
     "2025-07-30.md",
     "2025-03-24.md",
     "2025-02-25.md",
