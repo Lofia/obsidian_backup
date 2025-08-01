@@ -6,7 +6,7 @@
 	1. convergence of theta ![](Pasted%20image%2020250801002619.png)
 	2. convergence of Lambda ![](Pasted%20image%2020250730201353.png)
 3. m=n^(5/6)
-	1. convergence of theta 
+	1. convergence of theta ![](Pasted%20image%2020250801021800.png)
 	2. convergence of Lambda ![](Pasted%20image%2020250730172719.png)
 #### Exp(1)
 1. m=n
