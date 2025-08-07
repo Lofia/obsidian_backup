@@ -8,6 +8,20 @@
         "type": "tabs",
         "children": [
           {
+            "id": "aed249c9bd4dbc5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research Todo's.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Research Todo's"
+            }
+          },
+          {
             "id": "97c6856524c9c6f0",
             "type": "leaf",
             "state": {
@@ -50,21 +64,21 @@
             }
           },
           {
-            "id": "aed249c9bd4dbc5c",
+            "id": "b6f14396a24140a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research Todo's.md",
+                "file": "2025-06-16.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Research Todo's"
+              "title": "2025-06-16"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -219,26 +233,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c69fa17435ecab82",
+  "active": "b6f14396a24140a7",
   "lastOpenFiles": [
+    "IMG_5615.jpg",
+    "2025-06-20.md",
+    "2025-06-16.md",
+    "2025-06-13.md",
+    "2025-06-05.md",
+    "2025-05-30.md",
+    "2025-05-23.md",
+    "2025-05-15.md",
+    "2025-05-13.md",
+    "2025-06-26.md",
+    "2025-06-27.md",
+    "2025-07-26.md",
+    "Pasted image 20241227102443.png",
+    "Pasted image 20241227102520.png",
+    "Pasted image 20241227102556.png",
+    "Pasted image 20241227103027.png",
+    "Pasted image 20250108092823.png",
+    "Pasted image 20250108185310.png",
+    "Pasted image 20250120101526.png",
+    "Pasted image 20250211211440.png",
+    "IMG_5502.jpg",
+    "Pasted image 20250410162513.png",
     "Research Todo's.md",
     "2025-08-01.md",
-    "2025-05-23.md",
     "simulation for convergence rate of theta.md",
-    "2025-07-26.md",
-    "2025-06-27.md",
     "2025-07-31.md",
-    "Pasted image 20250801040635.png",
-    "Pasted image 20250801021800.png",
-    "Pasted image 20250801002619.png",
-    "Pasted image 20250731233520.png",
-    "Pasted image 20250731233506.png",
-    "Pasted image 20250731170507.png",
-    "Pasted image 20250731170452.png",
-    "Pasted image 20250731132428.png",
-    "Pasted image 20250731132417.png",
-    "Pasted image 20250731115543.png",
-    "2025-05-30.md",
     "2025-07-30.md",
     "2025-03-24.md",
     "2025-02-25.md",
@@ -246,18 +268,10 @@
     "2025-03-06.md",
     "2025-03-05.md",
     "2025-02-27.md",
-    "2025-05-15.md",
-    "2025-06-26.md",
-    "2025-06-20.md",
-    "2025-06-16.md",
-    "2025-06-13.md",
-    "2025-06-05.md",
-    "2025-05-13.md",
     "2025-05-07.md",
     "2025-05-06.md",
     "README.md",
     "IMG_5560.heic",
-    "2025-04-30.md",
     "Jing Qin (auth.) - Biased Sampling, Over-identified Parameter Problems and Beyond-Springer Singapore (2017).pdf",
     "IMG_5502.heic",
     "Selective Review of Biased Sampling Problems with Applications in Modern Statistics.pdf",
