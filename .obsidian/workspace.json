@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -219,10 +219,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aed249c9bd4dbc5c",
+  "active": "c69fa17435ecab82",
   "lastOpenFiles": [
-    "2025-08-01.md",
     "Research Todo's.md",
+    "2025-08-01.md",
     "2025-05-23.md",
     "simulation for convergence rate of theta.md",
     "2025-07-26.md",
