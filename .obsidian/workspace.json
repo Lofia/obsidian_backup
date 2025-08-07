@@ -67,14 +67,12 @@
             "id": "b6f14396a24140a7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "2025-06-16.md",
-                "mode": "source",
-                "source": false
+                "file": "IMG_5615.jpg"
               },
-              "icon": "lucide-file",
-              "title": "2025-06-16"
+              "icon": "lucide-image",
+              "title": "IMG_5615"
             }
           }
         ],
@@ -235,9 +233,9 @@
   },
   "active": "b6f14396a24140a7",
   "lastOpenFiles": [
+    "2025-06-16.md",
     "IMG_5615.jpg",
     "2025-06-20.md",
-    "2025-06-16.md",
     "2025-06-13.md",
     "2025-06-05.md",
     "2025-05-30.md",
@@ -256,7 +254,6 @@
     "Pasted image 20250120101526.png",
     "Pasted image 20250211211440.png",
     "IMG_5502.jpg",
-    "Pasted image 20250410162513.png",
     "Research Todo's.md",
     "2025-08-01.md",
     "simulation for convergence rate of theta.md",
