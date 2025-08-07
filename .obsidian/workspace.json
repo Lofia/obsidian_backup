@@ -63,7 +63,8 @@
               "title": "2025-08-01"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -218,8 +219,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aed249c9bd4dbc5c",
+  "active": "c69fa17435ecab82",
   "lastOpenFiles": [
+    "Research Todo's.md",
     "2025-08-01.md",
     "IMG_5615.jpg",
     "2025-06-16.md",
@@ -242,7 +244,6 @@
     "Pasted image 20250120101526.png",
     "Pasted image 20250211211440.png",
     "IMG_5502.jpg",
-    "Research Todo's.md",
     "simulation for convergence rate of theta.md",
     "2025-07-31.md",
     "2025-07-30.md",

@@ -1,5 +1,5 @@
 Method: Mary's spline
-Theory: Burke / prop1 / theta
+Theory: theta
 Simulation: Poisson / Binom for NPMLE ... 
 	Use what to estimate theta for K-S and A-D? / using 95% for AD may not be appropriate
 Application: z affect? / why estimated differently? / quantitative analysis
