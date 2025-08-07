@@ -62,21 +62,8 @@
               "icon": "lucide-file",
               "title": "2025-08-01"
             }
-          },
-          {
-            "id": "b6f14396a24140a7",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "IMG_5615.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "IMG_5615"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -231,10 +218,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b6f14396a24140a7",
+  "active": "aed249c9bd4dbc5c",
   "lastOpenFiles": [
-    "2025-06-16.md",
+    "2025-08-01.md",
     "IMG_5615.jpg",
+    "2025-06-16.md",
     "2025-06-20.md",
     "2025-06-13.md",
     "2025-06-05.md",
@@ -255,7 +243,6 @@
     "Pasted image 20250211211440.png",
     "IMG_5502.jpg",
     "Research Todo's.md",
-    "2025-08-01.md",
     "simulation for convergence rate of theta.md",
     "2025-07-31.md",
     "2025-07-30.md",
