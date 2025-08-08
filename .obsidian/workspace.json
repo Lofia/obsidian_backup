@@ -63,8 +63,7 @@
               "title": "2025-08-01"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,10 +218,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c69fa17435ecab82",
+  "active": "aed249c9bd4dbc5c",
   "lastOpenFiles": [
-    "2025-08-08.md",
     "2025-08-01.md",
+    "2025-08-08.md",
     "Research Todo's.md",
     "IMG_5615.jpg",
     "2025-06-16.md",
