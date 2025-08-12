@@ -30,3 +30,8 @@
 3. m=n^(5/6)
 	1. convergence of theta ![](Pasted%20image%2020250731115543.png)
 	2. convergence of Lambda ![](Pasted%20image%2020250731014419.png)
+
+
+### Moreover: for normal(0,1)
+1. m=n=50000?
+2. m=n^(13/12), n=5000 ![](Pasted%20image%2020250812172249.png)
