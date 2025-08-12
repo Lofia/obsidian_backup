@@ -1,5 +1,5 @@
 Method: Mary's spline
-Theory: 
+Theory: theta
 Simulation: brownian bridge / simu result match?
 	Poisson / Binom for NPMLE ... 
 	Use what to estimate theta for K-S and A-D? / using 95% for AD may not be appropriate
