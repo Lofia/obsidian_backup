@@ -63,7 +63,8 @@
               "title": "Research Todo's"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,10 +219,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aed249c9bd4dbc5c",
+  "active": "97c6856524c9c6f0",
   "lastOpenFiles": [
-    "Research Todo's.md",
+    "Pasted image 20250814153641.png",
     "2025-08-08.md",
+    "Research Todo's.md",
     "simulation for convergence rate of theta.md",
     "Pasted image 20250813142335.png",
     "Pasted image 20250813142257.png",

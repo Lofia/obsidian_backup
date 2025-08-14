@@ -33,5 +33,5 @@
 
 
 ### Moreover: for normal(0,1)
-1. m=n=50000?
-2. m=n^(13/12), n=5000 ![](Pasted%20image%2020250812172249.png)n=50000 ![](Pasted%20image%2020250813142335.png)
+1. m=n=50000 ![](Pasted%20image%2020250814153641.png)
+2. m=n^(13/12), n=50000 ![](Pasted%20image%2020250813142335.png)
