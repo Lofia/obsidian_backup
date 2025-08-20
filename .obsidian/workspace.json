@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -219,12 +219,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "97c6856524c9c6f0",
+  "active": "e0ae903cf92eb5c1",
   "lastOpenFiles": [
+    "2025-08-08.md",
+    "simulation for convergence rate of theta.md",
     "Pasted image 20250820135912.png",
     "2025-08-19.md",
-    "simulation for convergence rate of theta.md",
-    "2025-08-08.md",
     "2025-05-23.md",
     "Research Todo's.md",
     "Pasted image 20250814153641.png",
@@ -247,7 +247,6 @@
     "Pasted image 20241227102520.png",
     "Pasted image 20241227102556.png",
     "Pasted image 20241227103027.png",
-    "Pasted image 20250108092823.png",
     "2025-07-31.md",
     "2025-07-30.md",
     "2025-03-24.md",
