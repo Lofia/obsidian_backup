@@ -63,8 +63,7 @@
               "title": "README"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -220,8 +219,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fbe5417f9b935195",
+  "active": "aed249c9bd4dbc5c",
   "lastOpenFiles": [
+    "README.md",
     "2025-09-03.md",
     "2025-08-08.md",
     "2025-08-27.md",
@@ -257,7 +257,6 @@
     "2025-02-25.md",
     "2025-03-13.md",
     "2025-03-06.md",
-    "2025-03-05.md",
     "IMG_5560.heic",
     "Jing Qin (auth.) - Biased Sampling, Over-identified Parameter Problems and Beyond-Springer Singapore (2017).pdf",
     "IMG_5502.heic",
