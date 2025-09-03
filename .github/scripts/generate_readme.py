@@ -7,9 +7,9 @@ Generates a README section listing latest markdown files.
 Default label mode: filename (basename without extension).
 Other modes: title (first markdown heading), date_title (YYYY-MM-DD — Title), path (relative path)
 
-Usage examples:
-  python generate_readme.py --source "." --dest README.md --count 5
-  python generate_readme.py --source "Daily" --dest README.md --count 3 --label title
+This version will ignore:
+ - any file named "Meetings.md" (case-insensitive)
+ - any file inside a folder named "templates"
 """
 
 import re
@@ -37,7 +37,8 @@ def find_markdown_files(src):
     if not p.exists():
         return []
     # ignore .git and .github folders
-    files = [f for f in p.rglob('*.md') if f.is_file() and not any(part.startswith('.git') or part == '.github' for part in f.parts)]
+    files = [f for f in p.rglob('*.md')
+             if f.is_file() and not any(part.startswith('.git') or part == '.github' for part in f.parts)]
     return files
 
 def extract_date_from_filename(name):
@@ -107,6 +108,12 @@ def build_list(files, count, repo_root, dest_name, label_mode):
         rel = os.path.relpath(str(f), repo_root).replace('\\', '/')
         # skip the destination README and skip files inside .github
         if Path(rel).name.lower() == dest_name.lower() or rel.startswith('.github/'):
+            continue
+        # Ignore Meetings.md (template) anywhere, case-insensitive
+        if Path(rel).name.lower() == 'meetings.md':
+            continue
+        # Ignore any files in a 'templates' folder (any depth)
+        if any(part.lower() == 'templates' for part in Path(rel).parts):
             continue
         if rel in seen:
             continue
