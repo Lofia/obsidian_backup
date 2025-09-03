@@ -63,7 +63,8 @@
               "title": "README"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -219,11 +220,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aed249c9bd4dbc5c",
+  "active": "97c6856524c9c6f0",
   "lastOpenFiles": [
+    "2025-09-03.md",
     "README.md",
     "2025-08-08.md",
-    "2025-09-03.md",
     "2025-08-27.md",
     "2025-08-19.md",
     "2025-08-26.md",
