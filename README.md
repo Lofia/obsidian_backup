@@ -1,6 +1,6 @@
-# My Obsidian Daily Notes
+# Meeting Notes
 
-Latest daily notes:
+Latest updates:
 
 <!-- DAILY_NOTES:START -->
 - [2025-09-03 — My Obsidian Daily Notes](README.md)
