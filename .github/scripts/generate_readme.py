@@ -1,8 +1,15 @@
 #!/usr/bin/env python3
 """
-Safer generate_readme.py
-Usage:
-  python generate_readme.py --source "." --dest README.md --count 3
+generate_readme.py
+
+Generates a README section listing latest markdown files.
+
+Default label mode: filename (basename without extension).
+Other modes: title (first markdown heading), date_title (YYYY-MM-DD — Title), path (relative path)
+
+Usage examples:
+  python generate_readme.py --source "." --dest README.md --count 5
+  python generate_readme.py --source "Daily" --dest README.md --count 3 --label title
 """
 
 import re
@@ -21,6 +28,8 @@ def parse_args():
     p.add_argument('--source', default='.', help='Source folder to scan for notes')
     p.add_argument('--dest', default='README.md', help='README file to update')
     p.add_argument('--count', type=int, default=3, help='How many latest notes to include')
+    p.add_argument('--label', choices=['filename', 'title', 'date_title', 'path'], default='filename',
+                   help='What to show as the link text (default: filename)')
     return p.parse_args()
 
 def find_markdown_files(src):
@@ -84,19 +93,14 @@ def infer_date(path):
     return file_mtime(path)
 
 def escape_md_text(text):
-    """
-    Escape characters that would break the Markdown link text.
-    We escape closing/opening square brackets so the [text] part is safe.
-    """
+    # Escape characters that would break the Markdown link text.
     return text.replace('\\', '\\\\').replace('[', '\\[').replace(']', '\\]')
 
 def url_encode_path(relpath):
-    """
-    Percent-encode the path but keep '/' so links remain relative.
-    """
+    # Percent-encode the path but keep '/' so links remain relative.
     return urllib.parse.quote(relpath, safe="/")
 
-def build_list(files, count, repo_root, dest_name):
+def build_list(files, count, repo_root, dest_name, label_mode):
     items = []
     seen = set()
     for f in files:
@@ -110,13 +114,25 @@ def build_list(files, count, repo_root, dest_name):
 
         date = infer_date(f)
         title = get_title(f)
-        items.append((date, title, rel))
+        items.append((date, title, rel, f))
     # sort desc
     items.sort(key=lambda t: t[0] or datetime.min, reverse=True)
     lines = []
-    for date, title, rel in items[:count]:
+    for date, title, rel, fpath in items[:count]:
         date_str = date.strftime('%Y-%m-%d') if date else ''
-        safe_title = escape_md_text(f"{date_str} — {title}")
+        if label_mode == 'filename':
+            # basename without extension
+            label_text = Path(rel).stem
+        elif label_mode == 'title':
+            label_text = title
+        elif label_mode == 'date_title':
+            label_text = f"{date_str} — {title}" if date_str else title
+        elif label_mode == 'path':
+            label_text = rel
+        else:
+            label_text = title
+
+        safe_title = escape_md_text(label_text)
         safe_link = url_encode_path(rel)
         lines.append(f"- [{safe_title}]({safe_link})")
     return '\n'.join(lines)
@@ -147,7 +163,7 @@ def main():
     if not files:
         print(f"No markdown files found in {args.source}")
         sys.exit(0)
-    new_md = build_list(files, args.count, repo_root, args.dest)
+    new_md = build_list(files, args.count, repo_root, args.dest, args.label)
     changed = replace_section(Path(args.dest), new_md)
     if changed:
         print(f"Updated {args.dest}")
