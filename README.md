@@ -1,6 +1,8 @@
-### Meeting Notes
+# My Obsidian Daily Notes
 
-Latest updated:
+Latest daily notes:
 
 <!-- DAILY_NOTES:START -->
 <!-- DAILY_NOTES:END -->
+
+(README updated automatically)
