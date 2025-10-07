@@ -16,3 +16,5 @@ Latest updates:
 <!-- DAILY_NOTES:END -->
 
 (README updated automatically)
+
+Previous meeting notes: [Click Here.](https://github.com/Lofia/Article_Crowdsourcing).
