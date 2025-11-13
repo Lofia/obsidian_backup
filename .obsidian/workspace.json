@@ -11,12 +11,14 @@
             "id": "feb052d65adf2e82",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "IMG_5822.jpeg"
+                "file": "2025-11-11.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "IMG_5822"
+              "icon": "lucide-file",
+              "title": "2025-11-11"
             }
           }
         ]
@@ -177,12 +179,13 @@
   },
   "active": "feb052d65adf2e82",
   "lastOpenFiles": [
+    "2025-11-12.md",
+    "2025-11-13.md",
+    "IMG_5822.jpeg",
     "IMG_5848.jpeg",
     "Pasted image 20251031135611.png",
     "IMG_5874.jpeg",
     "2025-11-11.md",
-    "2025-11-13.md",
-    "2025-11-12.md",
     "IMG_6067.jpeg",
     "IMG_6063.jpeg",
     "2025-11-10.md",
@@ -191,7 +194,6 @@
     "2025-10-31.md",
     "2025-10-22.md",
     "2025-10-23.md",
-    "IMG_5822.jpeg",
     "2025-10-14.md",
     "2025-10-16.md",
     "2025-10-09.md",
