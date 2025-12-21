@@ -5,6 +5,7 @@ Latest updates:
 <!-- DAILY_NOTES:START -->
 - [simulation for convergence rate of theta](simulation%20for%20convergence%20rate%20of%20theta.md)
 - [Research Todo's](Research%20Todo%27s.md)
+- [Building LLM](Building%20LLM.md)
 - [2025-12-17](2025-12-17.md)
 - [2025-12-14](2025-12-14.md)
 - [2025-12-04](2025-12-04.md)
@@ -12,7 +13,6 @@ Latest updates:
 - [2025-11-25](2025-11-25.md)
 - [2025-11-20](2025-11-20.md)
 - [2025-11-18](2025-11-18.md)
-- [2025-11-13](2025-11-13.md)
 <!-- DAILY_NOTES:END -->
 
 (README updated automatically)
