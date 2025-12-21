@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "2025-12-17"
             }
+          },
+          {
+            "id": "0c6354626d77465b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Building LLM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Building LLM"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,11 +192,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "feb052d65adf2e82",
+  "active": "0c6354626d77465b",
   "lastOpenFiles": [
+    "multihead-attention.pdf",
+    "Pasted image 20251221220040.png",
+    "Pasted image 20251221215946.png",
+    "2025-12-17.md",
+    "Building LLM.md",
     "Pasted image 20251217092808.png",
     "2025-12-14.md",
-    "2025-12-17.md",
     "2025-10-22.md",
     "2025-10-31.md",
     "2025-10-23.md",
@@ -206,15 +225,11 @@
     "IMG_5874.jpeg",
     "IMG_6067.jpeg",
     "IMG_6063.jpeg",
-    "IMG_5502.jpg",
     "2025-08-08.md",
     "2025-08-19.md",
     "2025-09-03.md",
     "2025-08-27.md",
     "2025-08-26.md",
-    "simulation for convergence rate of theta.md",
-    "Pasted image 20250801040635.png",
-    "IMG_5615.jpg",
     "IMG_5560.heic",
     "Jing Qin (auth.) - Biased Sampling, Over-identified Parameter Problems and Beyond-Springer Singapore (2017).pdf",
     "IMG_5502.heic",

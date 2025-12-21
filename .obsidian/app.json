@@ -19,6 +19,8 @@
     "Medline",
     "iDRK",
     "WeRide",
-    "UW-Biostat"
+    "UW-Biostat",
+    "Embedding",
+    "softmax"
   ]
 }
