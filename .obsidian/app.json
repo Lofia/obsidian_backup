@@ -21,6 +21,7 @@
     "WeRide",
     "UW-Biostat",
     "Embedding",
-    "softmax"
+    "softmax",
+    "GELU"
   ]
 }

@@ -10,4 +10,4 @@ Find the context vector for each word/token, using the query/key/value separatio
 ![](Pasted%20image%2020251221220040.png)
 Overall code: ![](multihead-attention.pdf)
 ## Whole GPT Model
-See structure illustration below, where feed-forward network is Linear+GELU+Linear.![](https://sebastianraschka.com/images/LLMs-from-scratch-images/ch04_compressed/15.webp)
+See structure illustration below, where feed-forward network is Linear+GELU+Linear. ![](Pasted%20image%2020251222201814.png)
