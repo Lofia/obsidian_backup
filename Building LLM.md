@@ -9,3 +9,5 @@ Use a vector to represent a word/token, with its position in the context. The li
 Find the context vector for each word/token, using the query/key/value separation model, where each of the linear mappings within the model is trainable.
 ![](Pasted%20image%2020251221220040.png)
 Overall code: ![](multihead-attention.pdf)
+## Whole GPT Model
+See structure illustration below, where feed-forward network is Linear+GELU+Linear.![](https://sebastianraschka.com/images/LLMs-from-scratch-images/ch04_compressed/15.webp)
