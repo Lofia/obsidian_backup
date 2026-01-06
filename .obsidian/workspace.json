@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-12-31.md",
+                "file": "2025-12-14.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-31"
+              "title": "2025-12-14"
             }
           }
         ],
@@ -194,9 +194,9 @@
   },
   "active": "0c6354626d77465b",
   "lastOpenFiles": [
+    "2025-12-31.md",
     "2025-12-14.md",
     "2025-12-17.md",
-    "2025-12-31.md",
     "Building LLM.md",
     "Pasted image 20251222201814.png",
     "Pasted image 20251221220720.png",
