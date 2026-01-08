@@ -22,6 +22,7 @@
     "UW-Biostat",
     "Embedding",
     "softmax",
-    "GELU"
+    "GELU",
+    "tggd"
   ]
 }
