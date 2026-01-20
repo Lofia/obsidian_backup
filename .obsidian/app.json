@@ -23,6 +23,7 @@
     "Embedding",
     "softmax",
     "GELU",
-    "tggd"
+    "tggd",
+    "Letitia"
   ]
 }
