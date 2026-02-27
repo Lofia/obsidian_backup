@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "2026-02-26"
             }
+          },
+          {
+            "id": "e8d94d6de5446c90",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -192,7 +204,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c6354626d77465b",
+  "active": "e8d94d6de5446c90",
   "lastOpenFiles": [
     "2026-02-19.md",
     "2026-02-26.md",
