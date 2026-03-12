@@ -34,21 +34,9 @@
               "icon": "lucide-file",
               "title": "2026-03-05"
             }
-          },
-          {
-            "id": "d19dfae5adbbfadc",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,7 +192,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d19dfae5adbbfadc",
+  "active": "0c6354626d77465b",
   "lastOpenFiles": [
     "Pasted image 20260305211142.png",
     "2026-02-27.md",
