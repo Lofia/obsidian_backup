@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-03-12.md",
+                "file": "2025-10-09.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-12"
+              "title": "2025-10-09"
             }
           }
         ],
@@ -68,12 +68,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "meetings",
+                "query": "crowd",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               },
               "icon": "lucide-search",
               "title": "Search"
@@ -89,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -194,10 +195,10 @@
   },
   "active": "0c6354626d77465b",
   "lastOpenFiles": [
+    "2026-03-12.md",
     "2026-02-26.md",
     "2026-02-27.md",
     "2026-03-05.md",
-    "2026-03-12.md",
     "Pasted image 20260305211142.png",
     "2026-02-19.md",
     "2026-02-17.md",
