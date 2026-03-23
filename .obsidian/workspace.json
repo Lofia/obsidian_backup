@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-03-19.md",
+                "file": "2026-03-23.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-19"
+              "title": "2026-03-23"
             }
           }
         ],
@@ -194,8 +194,9 @@
   },
   "active": "0c6354626d77465b",
   "lastOpenFiles": [
-    "2026-03-18.md",
     "2026-03-19.md",
+    "2026-03-23.md",
+    "2026-03-18.md",
     "2026-03-12.md",
     "2026-03-16.md",
     "IMG_6311.jpeg",
@@ -226,7 +227,6 @@
     "2025-12-17.md",
     "2025-12-31.md",
     "2026-01-07.md",
-    "Building LLM.md",
     "Pasted image 20251222201814.png",
     "Pasted image 20251221220720.png",
     "multihead-attention.pdf",
