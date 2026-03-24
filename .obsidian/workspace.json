@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-03-23.md",
+                "file": "2026-03-19.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-23"
+              "title": "2026-03-19"
             }
           }
         ],
@@ -192,10 +192,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c6354626d77465b",
+  "active": "51381521963e1afd",
   "lastOpenFiles": [
-    "2026-03-19.md",
     "2026-03-23.md",
+    "2026-03-19.md",
     "2026-03-18.md",
     "2026-03-12.md",
     "2026-03-16.md",
