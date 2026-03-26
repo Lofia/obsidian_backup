@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-03-24.md",
+                "file": "2026-03-18.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-24"
+              "title": "2026-03-18"
             }
           }
         ],
@@ -192,15 +192,52 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c6354626d77465b",
+  "floating": {
+    "id": "d46789e4c98c4b4d",
+    "type": "floating",
+    "children": [
+      {
+        "id": "f6819ffa847cb878",
+        "type": "window",
+        "children": [
+          {
+            "id": "20bf07113547cb2b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f19c16ff26a414c8",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "IMG_6311.jpeg"
+                  },
+                  "icon": "lucide-image",
+                  "title": "IMG_6311"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 43,
+        "y": 47,
+        "width": 1624,
+        "height": 961,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "f19c16ff26a414c8",
   "lastOpenFiles": [
-    "2026-03-26.md",
-    "2026-03-24.md",
-    "IMG_6320.jpeg",
-    "IMG_6321.jpeg",
+    "2026-03-18.md",
     "2026-03-19.md",
     "2026-03-23.md",
-    "2026-03-18.md",
+    "2026-03-24.md",
+    "2026-03-26.md",
+    "IMG_6320.jpeg",
+    "IMG_6321.jpeg",
     "2026-03-12.md",
     "2026-03-16.md",
     "IMG_6311.jpeg",
