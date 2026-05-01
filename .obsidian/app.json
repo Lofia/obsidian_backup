@@ -28,6 +28,7 @@
     "IWSM",
     "GGobi",
     "Tibshirani",
-    "ULSIF"
+    "ULSIF",
+    "identifiability"
   ]
 }
