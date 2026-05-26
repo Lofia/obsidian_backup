@@ -6,13 +6,13 @@ Latest updates:
 - [simulation for convergence rate of theta](simulation%20for%20convergence%20rate%20of%20theta.md)
 - [Research Todo's](Research%20Todo%27s.md)
 - [Building LLM](Building%20LLM.md)
+- [2026-05-26](2026-05-26.md)
 - [2026-05-19](2026-05-19.md)
 - [2026-05-14](2026-05-14.md)
 - [2026-05-07](2026-05-07.md)
 - [2026-05-05](2026-05-05.md)
 - [2026-04-30](2026-04-30.md)
 - [2026-04-28](2026-04-28.md)
-- [2026-04-23](2026-04-23.md)
 <!-- DAILY_NOTES:END -->
 
 (README updated automatically)
