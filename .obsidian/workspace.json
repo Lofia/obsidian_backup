@@ -63,7 +63,8 @@
               "title": "2025-10-07"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -219,11 +220,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "feb052d65adf2e82",
+  "active": "3dc01c88c7781f57",
   "lastOpenFiles": [
+    "Building LLM.md",
     "LLM project - DistilBert.md",
     "train_stucture.py",
-    "Building LLM.md",
     "2026-02-17.md",
     "2026-07-24.md",
     "IMG_6884.jpeg",
