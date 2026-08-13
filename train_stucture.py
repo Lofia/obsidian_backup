@@ -1,5 +1,3 @@
-- Model structure:
-```python
 MODEL_NAME = "distilbert/distilbert-base-uncased"
 LABEL_NAMES = ["World", "Sports", "Business", "Sci/Tech"]
 
@@ -63,4 +61,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-```

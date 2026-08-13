@@ -63,8 +63,7 @@
               "title": "2025-10-07"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -220,11 +219,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3dc01c88c7781f57",
+  "active": "feb052d65adf2e82",
   "lastOpenFiles": [
-    "2026-02-17.md",
     "LLM project - DistilBert.md",
+    "train_stucture.py",
     "Building LLM.md",
+    "2026-02-17.md",
     "2026-07-24.md",
     "IMG_6884.jpeg",
     "2026-07-09.md",
@@ -257,7 +257,6 @@
     "2026-04-17.md",
     "2026-03-12.md",
     "2026-03-05.md",
-    "2026-02-27.md",
     "multihead-attention.pdf",
     "IMG_5560.heic",
     "Jing Qin (auth.) - Biased Sampling, Over-identified Parameter Problems and Beyond-Springer Singapore (2017).pdf",
@@ -266,7 +265,6 @@
     "biometrics-H-Q-H.pdf",
     "ICSDS-Shifts.pdf",
     "LICENSE",
-    "obsidian_backup/LICENSE",
-    "obsidian_backup"
+    "obsidian_backup/LICENSE"
   ]
 }
