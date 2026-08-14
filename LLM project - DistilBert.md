@@ -64,3 +64,10 @@ def main():
 if __name__ == '__main__':
     main()
 ```
+
+| Model               | Train n | Test Accuracy | Test Macro-F1 |
+| ------------------- | ------: | ------------: | ------------: |
+| Original baseline   |    2000 |        0.9100 |        0.9097 |
+| Same-size unshifted |    1956 |               |               |
+| Shifted unweighted  |    1956 |               |               |
+| Shifted + oracle IW |    1956 |               |               |
