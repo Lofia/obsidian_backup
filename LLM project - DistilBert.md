@@ -69,5 +69,5 @@ if __name__ == '__main__':
 | ------------------- | ------: | ------------: | ------------: |
 | Original baseline   |    2000 |        0.9100 |        0.9097 |
 | Same-size unshifted |    1956 |        0.9088 |        0.9087 |
-| Shifted unweighted  |    1956 |               |               |
+| Shifted unweighted  |    1956 |        0.9100 |        0.9097 |
 | Shifted + oracle IW |    1956 |               |               |
