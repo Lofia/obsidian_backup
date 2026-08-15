@@ -79,3 +79,9 @@ if __name__ == '__main__':
 | Shifted unweighted  |    1956 |        0.9162 |        0.9158 |
 | Shifted + oracle IW |    1956 |               |               |
 
+| Model               | Train n | Test Accuracy | Test Macro-F1 |
+| ------------------- | ------: | ------------: | ------------: |
+| Original baseline   |    2000 |        0.9100 |        0.9097 |
+| Same-size unshifted |    1956 |        0.9000 |        0.8994 |
+| Shifted unweighted  |    1956 |        0.8963 |        0.8963 |
+| Shifted + oracle IW |    1956 |               |               |
