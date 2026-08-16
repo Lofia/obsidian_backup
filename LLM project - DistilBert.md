@@ -71,6 +71,7 @@ if __name__ == '__main__':
 | Same-size unshifted |    1956 |        0.9088 |        0.9087 |
 | Shifted unweighted  |    1956 |        0.9100 |        0.9097 |
 | Shifted + oracle IW |    1956 |               |               |
+- change to $v(x)\propto$ difficulty of prediction
 
 | Model               | Train n | Test Accuracy | Test Macro-F1 |
 | ------------------- | ------: | ------------: | ------------: |
@@ -95,3 +96,9 @@ if __name__ == '__main__':
 |    5 |            |     0.8983 |    0.9021 |
 | Mean |            |            |           |
 |   SD |            |            |           |
+
+|Model|Encoder|Weight|Macro-F1|
+|---|---|---|--:|
+|Frozen control|Frozen|none|?|
+|Frozen shifted|Frozen|none|?|
+|Frozen shifted + Oracle|Frozen|true (w)|?|
