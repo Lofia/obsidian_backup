@@ -106,6 +106,15 @@ if __name__ == '__main__':
 
 | Model                   | Encoder | Weight   | Validation Macro-F1 | Test Macro-F1 |
 | ----------------------- | ------- | -------- | ------------------: | ------------: |
-| Frozen control          | Frozen  | none     |                     |               |
+| Frozen control          | Frozen  | none     |              0.8866 |        0.8901 |
 | Frozen shifted          | Frozen  | none     |              0.8770 |        0.8923 |
 | Frozen shifted + Oracle | Frozen  | true (w) |              0.8839 |        0.8897 |
+
+- change to
+
+| Method     | Target Loss | Accuracy | Macro-F1 |
+| ---------- | ----------: | -------: | -------: |
+| Unweighted |             |          |          |
+| Oracle     |             |          |          |
+| Your IW    |             |          |          |
+| uLSIF      |             |          |          |
