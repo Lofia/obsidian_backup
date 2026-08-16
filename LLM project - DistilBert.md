@@ -65,12 +65,15 @@ if __name__ == '__main__':
     main()
 ```
 
+- Set $v(x)\propto$ token length
+
 | Model               | Train n | Test Accuracy | Test Macro-F1 |
 | ------------------- | ------: | ------------: | ------------: |
 | Original baseline   |    2000 |        0.9100 |        0.9097 |
 | Same-size unshifted |    1956 |        0.9088 |        0.9087 |
 | Shifted unweighted  |    1956 |        0.9100 |        0.9097 |
 | Shifted + oracle IW |    1956 |               |               |
+
 - change to $v(x)\propto$ difficulty of prediction
 
 | Model               | Train n | Test Accuracy | Test Macro-F1 |
@@ -79,6 +82,8 @@ if __name__ == '__main__':
 | Same-size unshifted |    1956 |        0.9075 |        0.9072 |
 | Shifted unweighted  |    1956 |        0.9162 |        0.9158 |
 | Shifted + oracle IW |    1956 |               |               |
+
+- reverse the monotonicity of $v(x)$
 
 | Model               | Train n | Test Accuracy | Test Macro-F1 |
 | ------------------- | ------: | ------------: | ------------: |
@@ -97,8 +102,10 @@ if __name__ == '__main__':
 | Mean |            |            |           |
 |   SD |            |            |           |
 
-|Model|Encoder|Weight|Macro-F1|
-|---|---|---|--:|
-|Frozen control|Frozen|none|?|
-|Frozen shifted|Frozen|none|?|
-|Frozen shifted + Oracle|Frozen|true (w)|?|
+- freeze loaded encoder
+
+| Model                   | Encoder | Weight   | Validation Macro-F1 | Test Macro-F1 |
+| ----------------------- | ------- | -------- | ------------------: | ------------: |
+| Frozen control          | Frozen  | none     |                     |               |
+| Frozen shifted          | Frozen  | none     |              0.8770 |        0.8923 |
+| Frozen shifted + Oracle | Frozen  | true (w) |              0.8839 |        0.8897 |
