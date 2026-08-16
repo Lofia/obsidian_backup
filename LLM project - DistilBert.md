@@ -74,7 +74,7 @@ if __name__ == '__main__':
 | Shifted unweighted  |    1956 |        0.9100 |        0.9097 |
 | Shifted + oracle IW |    1956 |               |               |
 
-- change to $v(x)\propto$ difficulty of prediction
+- change to $v(x)\propto\text{margin}(T)$ 
 
 | Model               | Train n | Test Accuracy | Test Macro-F1 |
 | ------------------- | ------: | ------------: | ------------: |
@@ -83,7 +83,7 @@ if __name__ == '__main__':
 | Shifted unweighted  |    1956 |        0.9162 |        0.9158 |
 | Shifted + oracle IW |    1956 |               |               |
 
-- reverse the monotonicity of $v(x)$
+- change to $v(x)\propto1-\text{margin}(T)$ 
 
 | Model               | Train n | Test Accuracy | Test Macro-F1 |
 | ------------------- | ------: | ------------: | ------------: |
@@ -110,7 +110,7 @@ if __name__ == '__main__':
 | Frozen shifted          | Frozen  | none     |              0.8770 |        0.8923 |
 | Frozen shifted + Oracle | Frozen  | true (w) |              0.8839 |        0.8897 |
 
-- change to
+- change to $v(x)\propto P(\text{Business}|T)$ <- indeed how?
 
 | Method     | Target Loss | Accuracy | Macro-F1 |
 | ---------- | ----------: | -------: | -------: |
