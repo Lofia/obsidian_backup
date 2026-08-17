@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -208,11 +208,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3dc01c88c7781f57",
+  "active": "0cf3edde85ad037f",
   "lastOpenFiles": [
+    "LLM project - DistilBert.md",
     "2026-08-14.md",
     "2026-02-17.md",
-    "LLM project - DistilBert.md",
     "Building LLM.md",
     "train_stucture.py",
     "2026-07-24.md",
