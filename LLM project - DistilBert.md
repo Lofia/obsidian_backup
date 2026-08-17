@@ -114,8 +114,8 @@ if __name__ == '__main__':
 
 | Model            | Val Loss | Val F1 | Test Loss | Test Accuracy | Test F1 |
 | ---------------- | -------: | -----: | --------: | ------------: | ------: |
-| Frozen control   |          |        |           |               |         |
-| Frozen shifted   |          |        |           |               |         |
+| Frozen control   |    0.378 |  0.877 |     0.342 |         0.886 |   0.886 |
+| Frozen shifted   |    0.369 |  0.887 |     0.332 |         0.893 |   0.892 |
 | Frozen Oracle IW |          |        |           |               |         |
 
 | Method     | Target Loss | Accuracy | Macro-F1 |
