@@ -112,6 +112,12 @@ if __name__ == '__main__':
 
 - change to $v(x)\propto P(\text{Business}|T)$ <- indeed how?
 
+| Model            | Val Loss | Val F1 | Test Loss | Test Accuracy | Test F1 |
+| ---------------- | -------: | -----: | --------: | ------------: | ------: |
+| Frozen control   |          |        |           |               |         |
+| Frozen shifted   |          |        |           |               |         |
+| Frozen Oracle IW |          |        |           |               |         |
+
 | Method     | Target Loss | Accuracy | Macro-F1 |
 | ---------- | ----------: | -------: | -------: |
 | Unweighted |             |          |          |
