@@ -6,13 +6,13 @@ Latest updates:
 - [simulation for convergence rate of theta](simulation%20for%20convergence%20rate%20of%20theta.md)
 - [Research Todo's](Research%20Todo%27s.md)
 - [LLM project - DistilBert](LLM%20project%20-%20DistilBert.md)
+- [Leetcode problems](Leetcode%20problems.md)
 - [Building LLM](Building%20LLM.md)
+- [2026-10-27](2026-10-27.md)
 - [2026-10-23](2026-10-23.md)
 - [2026-10-05](2026-10-05.md)
 - [2026-09-23](2026-09-23.md)
 - [2026-08-20](2026-08-20.md)
-- [2026-08-14](2026-08-14.md)
-- [2026-07-24](2026-07-24.md)
 <!-- DAILY_NOTES:END -->
 
 (README updated automatically)
