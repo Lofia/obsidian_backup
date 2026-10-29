@@ -8,7 +8,7 @@ Latest updates:
 - [Leetcode problems](Leetcode%20problems.md)
 - [LLM project - DistilBert](LLM%20project%20-%20DistilBert.md)
 - [Building LLM](Building%20LLM.md)
-- [2026-10-27](2026-10-27.md)
+- [2026-10-29](2026-10-29.md)
 - [2026-10-23](2026-10-23.md)
 - [2026-10-05](2026-10-05.md)
 - [2026-09-23](2026-09-23.md)
